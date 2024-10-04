@@ -3,8 +3,9 @@
 
 package sallet.robot; 
 
+// -------------------------------------------------------------------------------------------------
+
 /**
- * -------------------------------------------------------------------------------------------------
  * A container for declaring a Robot Program. The RobotBase class is meant to be subclassed and used
  * as a class to declare subsystems, bindings, and periodic calls that will then be used in
  * different OpModes. Those OpModes will then be able to call methods from the subclassed container
